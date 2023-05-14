@@ -1,0 +1,116 @@
+Field,Field Type,Definition
+Raw Material (RM) Supplier,Text,A company or entity that supplies raw materials for the manufacturing of products.
+RM Name,Text,The name of the raw material.
+RM Supplier Code,Numerical,A unique code or identifier assigned by the raw material supplier to identify a specific product.
+Active Ingredient,Text,The ingredient in a product that provides the intended therapeutic or medicinal effect.
+Active Ingredient %,Numerical,The percentage or concentration of the active ingredient in the product.
+Botanical Name,Text,The scientific name of the plant from which the raw material is derived.
+Physical Description,Text,"The physical characteristics or appearance of the raw material, such as color, shape, or texture."
+Ingredient Type,Picklist,"The classification of the raw material based on its chemical composition or source, such as a botanical, mineral, or synthetic ingredient."
+Potency,Numerical,The strength or effectiveness of the active ingredient in the product.
+Category,Picklist,"The general classification or category of the product, such as dietary supplement or cosmetic."
+CAS Number,Numerical,The unique numerical identifier assigned to a specific chemical substance.
+Assay Requirement,Text,The minimum percentage or concentration of the active ingredient required in the product.
+Bulk Density,Numerical,The weight or mass of a given volume of the raw material.
+Tap Density,Numerical,The weight or mass of the raw material after it has been tapped or compacted.
+Color,Text,The visual color of the raw material.
+Lab Test Definition,Text,The specific tests or methods used to evaluate the quality or purity of the raw material.
+Excepient Pairing,Picklist,"The selection and combination of inactive ingredients or excipients to improve the stability, solubility, or absorption of the active ingredient."
+Effective Dosage,Numerical,The recommended or effective dose of the product.
+pH,Numerical,The measure of the acidity or alkalinity of the product.
+CFU,Numerical,"Colony-forming units, a measure of the number of viable microorganisms in the product."
+Form,Numerical,"The physical form or presentation of the product, such as a capsule, tablet, or powder."
+IU,Numerical,"International Units, a measure of the biological activity or potency of a substance."
+Enzyme Potency,Numerical,The measure of the activity or effectiveness of an enzyme in the product.
+Soluble In,Picklist,The solubility or compatibility of the raw material with different solvents or vehicles.
+Unit of Measure,Picklist,"The specific unit or measurement used to quantify the raw material, such as grams or milligrams."
+Substantiated Claims,Text,Claims made about the product that have been supported by scientific evidence or research.
+Trademark Clause,Text,A statement indicating that certain names or logos used in the product are trademarks or registered trademarks of their respective owners.
+Calories,Numerical,"Calories are a unit of measurement for energy that the body derives from food and drinks. The body uses this energy for essential functions such as maintaining body temperature, physical activity, and other bodily processes."
+Protein,Numerical,"Protein is a macronutrient that is essential for building and repairing tissues in the body, as well as for maintaining muscle mass. It is made up of amino acids and is found in a variety of foods such as meat, dairy, beans, and nuts."
+Total Fat,Numerical,"Total fat refers to the total amount of fat present in a food or drink, including both saturated and unsaturated fats. Fat is a macronutrient that provides the body with energy and is important for maintaining healthy skin, hair, and nails."
+Saturated Fat,Numerical,"Saturated fat is a type of fat that is typically solid at room temperature and is found in foods such as butter, cheese, and fatty meats. Consuming too much saturated fat can increase the risk of heart disease and other health problems."
+Monounsaturated Fats,Numerical,"Monounsaturated fats are a type of unsaturated fat that is typically liquid at room temperature and is found in foods such as olive oil, avocados, and nuts. These fats are beneficial for heart health and can help to lower LDL (bad) cholesterol levels."
+Polyunsaturated Fats,Numerical,"Polyunsaturated fats are another type of unsaturated fat that is typically liquid at room temperature and is found in foods such as fatty fish, flaxseeds, and sunflower seeds. These fats are also beneficial for heart health and can help to lower LDL (bad) cholesterol levels."
+Cholesterol,Numerical,"Cholesterol is a waxy substance that is produced by the liver and is also found in certain foods such as eggs and meat. While the body needs some cholesterol for essential functions such as hormone production, too much cholesterol can increase the risk of heart disease."
+Carbohydrates,Numerical,"Carbohydrates are a macronutrient that provides the body with energy. They are found in foods such as fruits, vegetables, grains, and sugars."
+Dietary FIber,Numerical,"Dietary fiber is a type of carbohydrate that the body cannot digest. It is found in foods such as fruits, vegetables, and whole grains, and is important for maintaining healthy digestion and preventing constipation."
+Insoluble Fiber,Numerical,"Insoluble fiber is a type of dietary fiber that does not dissolve in water and is found in foods such as wheat bran, nuts, and vegetables. It helps to promote regular bowel movements and can prevent constipation."
+Soluble Fiber,Numerical,"Soluble fiber is another type of dietary fiber that dissolves in water and is found in foods such as oats, beans, and fruits. It can help to lower cholesterol levels and regulate blood sugar."
+Total Sugar,Numerical,"Total sugar refers to the total amount of sugar present in a food or drink, including both natural and added sugars."
+Added Sugar,Numerical,Added sugar refers to sugar that is added to foods and drinks during processing or preparation. Consuming too much added sugar can increase the risk of health problems such as obesity and type 2 diabetes.
+Sugar Alcohol,Numerical,Sugar alcohol is a type of carbohydrate that is commonly used as a sugar substitute in foods such as sugar-free candy and gum. It provides fewer calories than sugar and does not raise blood sugar levels as much as regular sugar.
+Vitamin A,Numerical,"Vitamin A is a fat-soluble vitamin that is important for maintaining healthy vision, skin, and immune function. It is found in foods such as sweet potatoes, carrots, and spinach."
+Vitamin C,Numerical,"Vitamin C is a water-soluble vitamin that is important for maintaining healthy skin, bones, and immune function. It is found in foods such as citrus fruits, strawberries, and broccoli."
+Vitamin D,Numerical,"Vitamin D is a fat-soluble vitamin that is important for maintaining healthy bones and teeth, as well as for supporting the immune system. It is unique because the body can synthesize it from sunlight exposure, and it is also found in foods such as fatty fish, egg yolks, and fortified dairy products."
+Vitamin E,Numerical,"Vitamin E is a fat-soluble vitamin that acts as an antioxidant in the body, protecting cells from damage caused by free radicals. It is found in foods such as nuts, seeds, and vegetable oils."
+Vitamin K,Numerical,"Vitamin E is a fat-soluble vitamin that acts as an antioxidant in the body, protecting cells from damage caused by free radicals. It is found in foods such as nuts, seeds, and vegetable oils."
+Thiamine,Numerical,"Also known as vitamin B1, thiamine is a water-soluble vitamin that helps the body convert food into energy and is essential for proper nerve and muscle function."
+Riboflavin,Numerical,"Also known as vitamin B2, riboflavin is a water-soluble vitamin that plays a key role in the production of energy and is important for maintaining healthy skin, eyes, and nervous system."
+Niacin,Numerical,"Also known as vitamin B3, niacin is a water-soluble vitamin that helps the body convert food into energy and is important for maintaining healthy skin, nerves, and digestive system."
+Vitamin B6,Numerical,"Also known as pyridoxine, vitamin B6 is a water-soluble vitamin that helps the body produce neurotransmitters and hemoglobin, and is important for immune system function."
+Folate,Numerical,"Also known as vitamin B9, folate is a water-soluble vitamin that is important for the growth and development of new cells, and is essential for pregnant women to prevent birth defects."
+Vitamin B12,Numerical,"Also known as cobalamin, vitamin B12 is a water-soluble vitamin that is important for the formation of red blood cells and DNA, and is essential for proper nerve function."
+Boitin,Numerical,"Also known as vitamin B7, biotin is a water-soluble vitamin that helps the body metabolize carbohydrates, fats, and proteins, and is important for healthy skin, hair, and nails."
+Pantothenic Acid,Numerical,"Also known as vitamin B5, pantothenic acid is a water-soluble vitamin that helps the body produce energy and is important for proper adrenal gland function."
+Iodine,Numerical,"A mineral that is important for thyroid gland function and the production of thyroid hormones, which regulate metabolism."
+Magnesium,Numerical,"A mineral that is important for proper muscle and nerve function, and is essential for the formation of healthy bones and teeth."
+Zinc,Numerical,"A mineral that is important for immune system function, wound healing, and the synthesis of DNA and proteins."
+Selenium,Numerical,"A mineral that is important for antioxidant function, and is essential for the proper function of the thyroid gland."
+Copper,Numerical,"A mineral that is important for the formation of red blood cells and connective tissue, and is essential for proper immune system function."
+Manganese,Numerical,"A mineral that is important for bone health, wound healing, and the metabolism of carbohydrates, amino acids, and cholesterol."
+Chromium,Numerical,"A mineral that is important for proper insulin function and the metabolism of carbohydrates, fats, and proteins."
+Molybendum,Numerical,A mineral that is important for the metabolism of amino acids and the production of enzymes.
+Calcium,Numerical,"A mineral that is important for the formation of healthy bones and teeth, and is essential for proper muscle and nerve function."
+Potassium,Numerical,"An electrolyte that is important for proper muscle and nerve function, and helps regulate blood pressure and fluid balance."
+Sodium,Numerical,"An electrolyte that is important for regulating fluid balance and blood pressure, and is essential for proper muscle and nerve function."
+iron,Numerical,"A mineral that is important for the formation of hemoglobin, which carries oxygen in the blood, and is essential for proper immune system function."
+Chloride,Numerical,An electrolyte that is important for regulating fluid balance and the acidity of body fluids.
+Phosphorus,Numerical,"A mineral that is important for the formation of healthy bones and teeth, and is essential for energy metabolism and the production of DNA and RNA."
+Alanine,Numerical,An amino acid that is important for the metabolism of glucose and helps regulate blood sugar levels.
+Arginine,Numerical,"An amino acid that is important for the production of nitric oxide, which helps regulate blood flow and blood pressure."
+Asparagine,Numerical,"Asparagine is a non-essential amino acid that is important for protein synthesis and maintaining proper function of the nervous system. It is found in foods such as dairy, eggs, and asparagus."
+Aspartic acid,Numerical,"Aspartic acid is a non-essential amino acid that is important for the metabolism of other amino acids and for maintaining proper function of the nervous system. It is found in foods such as meat, fish, and dairy."
+Cysteine,Numerical,"Cysteine is a non-essential amino acid that is important for the synthesis of proteins and for maintaining healthy skin, hair, and nails. It is found in foods such as poultry, eggs, and dairy."
+Glutamic acid,Numerical,"Glutamic acid is a non-essential amino acid that is important for protein synthesis and for maintaining proper function of the nervous system. It is found in foods such as meat, fish, and soy products."
+Glutamine,Numerical,"Glutamine is a non-essential amino acid that is important for the synthesis of proteins and for maintaining proper function of the immune system. It is found in foods such as beef, poultry, and fish."
+Glycine,Numerical,"Glycine is a non-essential amino acid that is important for the synthesis of proteins and for maintaining healthy skin, hair, and nails. It is found in foods such as meat, fish, and dairy."
+Histidine,Numerical,"Histidine is an essential amino acid that is important for the growth and repair of tissues in the body. It is found in foods such as meat, poultry, and fish."
+Isoleucine,Numerical,"Isoleucine is an essential amino acid that is important for the synthesis of proteins and for maintaining proper function of the immune system. It is found in foods such as meat, fish, and eggs."
+Leucine,Numerical,"Leucine is an essential amino acid that is important for the synthesis of proteins and for maintaining proper function of the immune system. It is found in foods such as meat, poultry, and dairy."
+Lysine,Numerical,"Lysine is an essential amino acid that is important for the growth and repair of tissues in the body. It is found in foods such as meat, poultry, and beans."
+Methionine,Numerical,"Methionine is an essential amino acid that is important for the synthesis of proteins and for maintaining healthy skin, hair, and nails. It is found in foods such as meat, fish, and eggs."
+Phenylalanine,Numerical,"Phenylalanine is an essential amino acid that is important for the synthesis of proteins and for maintaining proper function of the nervous system. It is found in foods such as meat, fish, and soy products."
+Proline,Numerical,"Proline is a non-essential amino acid that is important for the synthesis of proteins and for maintaining healthy skin, hair, and nails. It is found in foods such as meat, dairy, and soy products."
+Serine,Numerical,"Serine is a non-essential amino acid that is important for the synthesis of proteins and for maintaining proper function of the nervous system. It is found in foods such as meat, fish, and dairy."
+Threonine,Numerical,"Threonine is an essential amino acid that is important for the synthesis of proteins and for maintaining healthy skin, hair, and nails. It is found in foods such as meat, poultry, and beans."
+Tryptophan,Numerical,"Tryptophan is an essential amino acid that is important for the synthesis of proteins and for maintaining proper function of the nervous system. It is found in foods such as meat, poultry, and beans."
+Tyrosine,Numerical,Tyrosine is a non-essential amino acid that is important for the synthesis of proteins and for maintaining proper function of the nervous system.
+Valine,Numerical,"Valine is an essential amino acid that is important for the synthesis of proteins and for maintaining proper function of the immune system. It is found in foods such as meat, poultry, and dairy."
+Selenocysteine,Numerical,"Selenocysteine is a non-essential amino acid that contains selenium, an important mineral that is important for antioxidant function and maintaining a healthy immune system. It is found in foods such as Brazil nuts, seafood, and meats."
+Pyrrolysine,Numerical,Pyrrolysine is a non-essential amino acid that is only found in certain microorganisms and is involved in the synthesis of certain enzymes. It is not found in foods commonly consumed by humans.
+Loss On Drying,Numerical,Loss on drying is a measure of the amount of moisture lost from a substance when it is dried under certain conditions. It is often used as a measure of the stability of a substance during storage.
+Residue,Numerical,"Residue refers to any material that is left behind after a substance has been processed or treated. In the context of food, residue may refer to pesticides, herbicides, or other chemicals that may remain on or in food products."
+Water Activity,Numerical,Water activity is a measure of the amount of available water in a substance that is free to participate in chemical reactions or microbial growth. It is often used as a measure of food stability and safety.
+Carrier,Numerical,"In the context of food and dietary supplements, a carrier is a substance that is used to deliver a particular ingredient or nutrient to the body. Common carriers include capsules, tablets, and powders."
+Heavy Metals,Numerical,"Heavy metals are metallic elements that have a high density and may be toxic at low concentrations. In the context of food safety, heavy metals such as lead, cadmium, arsenic, and mercury may contaminate food products and pose a risk to human health."
+Lead,Numerical,"Lead is a heavy metal that can be found in certain foods, particularly those that have been grown in contaminated soil or prepared using contaminated equipment. High levels of lead exposure can cause a range of health problems, particularly in children."
+Cadmium,Numerical,"Cadmium is a heavy metal that can be found in certain foods, particularly those that have been grown in contaminated soil or water. High levels of cadmium exposure can cause kidney damage and other health problems."
+Arsenic,Numerical,"Arsenic is a heavy metal that can be found in certain foods, particularly those that have been grown in contaminated soil or water. High levels of arsenic exposure can cause a range of health problems, including cancer."
+Mercury,Numerical,Mercury is a heavy metal that can be found in certain fish and shellfish. High levels of mercury exposure can cause damage to the nervous system and other health problems.
+Milk,Boolean,Milk-free refers to a food product that does not contain any milk or milk-based ingredients. This is important for people with lactose intolerance or dairy allergies.
+Eggs,Boolean,Eggs-free refers to a food product that does not contain any eggs or egg-based ingredients. This is important for people with egg allergies or those who follow a vegan diet.
+"Fish (e.g., bass, flounder, cod)",Boolean,Fish-free refers to a food product that does not contain any fish or fish-based ingredients. This is important for people with fish allergies or those who follow a vegetarian or vegan diet.
+"Crustacean shellfish (e.g. crab, lobster, shrimp)",Boolean,Crustacean shellfish-free refers to a food product that does not contain any crustacean shellfish or shellfish-based ingredients. This is important for people with shellfish allergies or those who follow a vegetarian or vegan diet.
+"Tree nuts (e.g. almonds, walnuts, pecans)",Boolean,Tree nuts-free refers to a food product that does not contain any tree nuts or nut-based ingredients. This is important for people with nut allergies or those who follow a vegetarian or vegan diet.
+Peanuts,Boolean,Peanuts-free refers to a food product that does not contain any peanuts or peanut-based ingredients. This is important for people with peanut allergies or those who follow a vegetarian or vegan diet.
+Wheat,Boolean,Wheat-free refers to a food product that does not contain any wheat or wheat-based ingredients. This is important for people with wheat allergies or those who follow a gluten-free diet.
+Soybeans,Boolean,Soybean-free refers to a food product that does not contain any soybeans or soy-based ingredients. This is important for people with soy allergies or those who follow a vegetarian or vegan diet.
+Non GMO,Boolean,Non-GMO refers to products that do not contain genetically modified organisms (GMOs). These are foods that have not been genetically altered in a laboratory.
+Vegan,Boolean,"Vegan refers to a lifestyle that avoids using or consuming animal products. In the context of food, vegan products do not contain any animal-based ingredients."
+Kosher,Boolean,"Kosher refers to foods that are prepared in accordance with Jewish dietary laws. These foods must adhere to specific guidelines regarding the types of ingredients used, the method of preparation, and the supervision of the process."
+Organic,Boolean,"Organic refers to foods that are produced using methods that minimize the use of synthetic pesticides and fertilizers, and that promote the health of the soil and the environment."
+NSF Sport,Boolean,NSF Sport is a certification program for dietary supplements that ensures they do not contain any banned substances or ingredients that may cause an athlete to fail a drug test.
+Prop 65,Boolean,Proposition 65 is a California law that requires businesses to provide warnings to consumers about potential exposure to certain chemicals that may cause cancer or reproductive harm.
+Halal,Boolean,"Halal refers to foods that are prepared in accordance with Islamic dietary laws. These foods must adhere to specific guidelines regarding the types of ingredients used, the method of preparation, and the supervision of the process."
+Country of Origin,Boolean,Country of origin refers to the country where a food product was produced or grown. This information is often included on food labels and is important for consumers who want to know where their food comes from.

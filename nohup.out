@@ -1,0 +1,68 @@
+ * Serving Flask app 'api.views'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 796-479-198
+ * Serving Flask app 'api.views'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 796-479-198
+ * Serving Flask app 'api.views'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5090
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 796-479-198
+ * Serving Flask app 'api.views'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5093
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 796-479-198
+Traceback (most recent call last):
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/flask_app.py", line 4, in <module>
+Traceback (most recent call last):
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/flask_app.py", line 4, in <module>
+Traceback (most recent call last):
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/flask_app.py", line 4, in <module>
+    app.run(debug=True, port=5001)
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/flask/app.py", line 1188, in run
+    app.run(debug=True, port=5001)
+    app.run(debug=True, port=5001)
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/flask/app.py", line 1188, in run
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/flask/app.py", line 1188, in run
+    run_simple(t.cast(str, host), port, self, **options)
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/werkzeug/serving.py", line 1059, in run_simple
+    run_simple(t.cast(str, host), port, self, **options)
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/werkzeug/serving.py", line 1059, in run_simple
+    run_simple(t.cast(str, host), port, self, **options)
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/werkzeug/serving.py", line 1059, in run_simple
+    run_with_reloader(
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/werkzeug/_reloader.py", line 434, in run_with_reloader
+    run_with_reloader(
+    ensure_echo_on()
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/werkzeug/_reloader.py", line 414, in ensure_echo_on
+    termios.tcsetattr(sys.stdin, termios.TCSANOW, attributes)
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/werkzeug/_reloader.py", line 434, in run_with_reloader
+    run_with_reloader(
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/werkzeug/_reloader.py", line 434, in run_with_reloader
+    ensure_echo_on()
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/werkzeug/_reloader.py", line 414, in ensure_echo_on
+    termios.tcsetattr(sys.stdin, termios.TCSANOW, attributes)
+    ensure_echo_on()
+  File "/Users/saurabhsemwal/Documents/upword-prod/hans/DocExtractor-NFI/.venv/lib/python3.9/site-packages/werkzeug/_reloader.py", line 414, in ensure_echo_on
+termios.error: (4, 'Interrupted system call')
+termios.error: (4, 'Interrupted system call')
+    termios.tcsetattr(sys.stdin, termios.TCSANOW, attributes)
+termios.error: (4, 'Interrupted system call')

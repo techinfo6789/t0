@@ -1,0 +1,32 @@
+Field,Field Type,Definition
+Raw Material (RM) Supplier,Text,A company or entity that supplies raw materials for the manufacturing of products.
+RM Name,Text,The name of the raw material.
+RM Supplier Code,Numerical,A unique code or identifier assigned by the raw material supplier to identify a specific product.
+Active Ingredient,Text,The ingredient in a product that provides the intended therapeutic or medicinal effect.
+Active Ingredient %,Numerical,The percentage or concentration of the active ingredient in the product.
+Botanical Name,Text,The scientific name of the plant from which the raw material is derived.
+Physical Description,Text,"The physical characteristics or appearance of the raw material, such as color, shape, or texture."
+Ingredient Type,Picklist,"The classification of the raw material based on its chemical composition or source, such as a botanical, mineral, or synthetic ingredient."
+Potency,Numerical,The strength or effectiveness of the active ingredient in the product.
+Category,Picklist,"The general classification or category of the product, such as dietary supplement or cosmetic."
+CAS Number,Numerical,The unique numerical identifier assigned to a specific chemical substance.
+Assay Requirement,Text,The minimum percentage or concentration of the active ingredient required in the product.
+Tap Density,Numerical,The weight or mass of the raw material after it has been tapped or compacted.
+Color,Text,The visual color of the raw material.
+Lab Test Definition,Text,The specific tests or methods used to evaluate the quality or purity of the raw material.
+Excepient Pairing,Picklist,"The selection and combination of inactive ingredients or excipients to improve the stability, solubility, or absorption of the active ingredient."
+Effective Dosage,Numerical,The recommended or effective dose of the product.
+CFU,Numerical,"Colony-forming units, a measure of the number of viable microorganisms in the product."
+Form,Numerical,"The physical form or presentation of the product, such as a capsule, tablet, or powder."
+IU,Numerical,"International Units, a measure of the biological activity or potency of a substance."
+Soluble In,Picklist,The solubility or compatibility of the raw material with different solvents or vehicles.
+Unit of Measure,Picklist,"The specific unit or measurement used to quantify the raw material, such as grams or milligrams."
+Substantiated Claims,Text,Claims made about the product that have been supported by scientific evidence or research.
+Trademark Clause,Text,A statement indicating that certain names or logos used in the product are trademarks or registered trademarks of their respective owners.
+Loss On Drying,Numerical,Loss on drying is a measure of the amount of moisture lost from a substance when it is dried under certain conditions. It is often used as a measure of the stability of a substance during storage.
+Residue,Numerical,"Residue refers to any material that is left behind after a substance has been processed or treated. In the context of food, residue may refer to pesticides, herbicides, or other chemicals that may remain on or in food products."
+Water Activity,Numerical,Water activity is a measure of the amount of available water in a substance that is free to participate in chemical reactions or microbial growth. It is often used as a measure of food stability and safety.
+Carrier,Numerical,"In the context of food and dietary supplements, a carrier is a substance that is used to deliver a particular ingredient or nutrient to the body. Common carriers include capsules, tablets, and powders."
+Heavy Metals,Numerical,"Heavy metals are metallic elements that have a high density and may be toxic at low concentrations. In the context of food safety, heavy metals such as lead, cadmium, arsenic, and mercury may contaminate food products and pose a risk to human health."
+NSF Sport,Boolean,NSF Sport is a certification program for dietary supplements that ensures they do not contain any banned substances or ingredients that may cause an athlete to fail a drug test.
+Prop 65,Boolean,Proposition 65 is a California law that requires businesses to provide warnings to consumers about potential exposure to certain chemicals that may cause cancer or reproductive harm.
